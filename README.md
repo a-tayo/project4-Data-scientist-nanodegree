@@ -42,7 +42,7 @@ Below is a summary of the conclusion reached from the exploration exploration ca
 * Most customers do not show interest in the offers at all as it seems most people would rather buy than take advantage of the offer.
 * Seeing as most offers sent to the male customers and those between the age bracket of 40 to 80 years were not completed, the company should target more people outside of this category for offers if they want more offers completed.
 
-The technical details of the findings from the code can be found at the post available [here](https://medium.com/@tayos133/four-4-things-you-need-to-know-about-data-science-jobs-salaries-42e61454f520).
+The technical details of the findings from the code can be found at the post available [here](https://medium.com/@a-tayo/starbucks-offers-a-technical-overview-e5fc3e1dd005).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
