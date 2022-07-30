@@ -37,8 +37,12 @@ There is only one notebook (Starbucks-capstone-project) in this project which is
 The project also includes this README file which explains the motivations for the project, installation guides, file descriptions conclusions as well as acknowledgements.
 
 ## Results<a name="results"></a>
+Below is a summary of the conclusion reached from the exploration exploration carried out in this project.
 
-The main findings of the code can be found at the post available [here](https://medium.com/@tayos133/four-4-things-you-need-to-know-about-data-science-jobs-salaries-42e61454f520).
+* Most customers do not show interest in the offers at all as it seems most people would rather buy than take advantage of the offer.
+* Seeing as most offers sent to the male customers and those between the age bracket of 40 to 80 years were not completed, the company should target more people outside of this category for offers if they want more offers completed.
+
+The technical details of the findings from the code can be found at the post available [here](https://medium.com/@tayos133/four-4-things-you-need-to-know-about-data-science-jobs-salaries-42e61454f520).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
